@@ -1,6 +1,6 @@
 {
-  "name": "new-token",
-  "symbol": "new-token",
+  "name": "spl-token",
+  "symbol": "spl-token",
   "description": " new-token from Solana Making a Token guide.",
-  "image": "https://v2.akord.com/api/proxy/download/29986c79-8c24-4033-8e9b-0c9cb59b69a8"
+  "image": "https://ipfs.io/ipfs/QmVA5Pbbs7sT66izSkx5StxUEmfBkLxhZyw4TarC8qcgv9"
 }
